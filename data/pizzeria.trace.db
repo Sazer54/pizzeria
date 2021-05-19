@@ -1,0 +1,4 @@
+2021-03-07 12:27:08 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "SAUEC" nie istnieje
+Table "SAUEC" not found; SQL statement:
+delete from sauec [42102-200]

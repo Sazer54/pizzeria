@@ -1,0 +1,68 @@
+#Headerlogo {
+  height: 300px;
+  background-image: url("../img/banner.jpg");
+  background-size: cover;
+
+}
+
+#Loginbutton {
+  float: right;
+}
+
+body {
+  background-color: #EEE2D3;
+}
+
+.card-body {
+  padding: 10px;
+  text-align: center;
+}
+
+.card-title {
+  font-weight: lighter;
+  font-size: 150%;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 350px;
+}
+
+.card {
+  min-height: 400px;
+}
+
+.carousel {
+  width: 100%;
+}
+
+.carousel-item {
+  width: 100%;
+  height: 400px;
+}
+
+#cat {
+  min-height: 350px;
+  max-height: 350px;
+}
+
+#catimg {
+  max-height: 300px;
+}
+
+.carousel-caption {
+  font-size: 150%;
+  font-weight: lighter;
+  color: black;
+}
+
+pre {
+  color: white;
+  font-size: 125%;
+  font-weight: lighter;
+}
+
+
+a:hover{
+    text-decoration:none;
+}

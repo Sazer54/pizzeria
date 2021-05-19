@@ -1,0 +1,43 @@
+#Headerlogo {
+    height: 320px;
+    background-image: url("../img/banner.jpg");
+    background-size: cover;
+
+}
+
+body {
+    background-color: #EEE2D3;
+}
+
+pre {
+    color: white;
+    font-size: 125%;
+    letter-spacing: 1px;
+    font-weight: lighter;
+}
+
+#data {
+    border-top: solid  #343a40 1px;
+    border-bottom: solid #343a40 1px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: white;
+    margin: 0px;
+    
+}
+
+#credentials {
+    background-color: #343a40;
+    border-radius: 10px;
+}
+
+#pic {
+    margin-top: 4px;
+    border-radius: 50%;
+ 
+}
+#context{
+    padding-top: 8px;
+    background-color: white;
+
+}
